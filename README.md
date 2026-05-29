@@ -1,3 +1,4 @@
+```html
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn&logoColor=white" />
@@ -6,13 +7,18 @@
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
 </p>
 
-<h1 align="center">🎮 Game Prediction ML</h1>
+<h1 align="center">🎮 Steam Game Success Forecasting</h1>
 
 <p align="center">
-  A two-phase machine learning project that predicts video game success on Steam — first by <b>regressing</b> on recommendation counts (Milestone 1), then by <b>classifying</b> game popularity into Low / Medium / High tiers (Milestone 2).
+  An end-to-end machine learning project focused on forecasting Steam game success using regression, classification, NLP, sentiment analysis, and ensemble learning techniques.
+</p>
+
+<p align="center">
+  The project predicts both <b>game recommendation counts</b> and <b>popularity tiers</b> (Low / Medium / High) through a two-phase predictive analytics pipeline built on real Steam platform data.
 </p>
 
 ---
+```
 
 ## 📑 Table of Contents
 
