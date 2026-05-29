@@ -59,10 +59,11 @@ Game-Prediction-ML/
 │
 ├── Data/
 │   ├── Data_Preprocessing.ipynb           # Milestone 1 preprocessing
-│   ├── Data_Preprocessing_milestone2.ipynb # Milestone 2 preprocessing (+ feature selection)
+│   ├── Data_Preprocessing_milestone2.ipynb # Milestone 2 preprocessing (feature selection changed)
 │   ├── EDA.ipynb                           # Exploratory data analysis
 │   ├── data_Extended.ipynb                 # Extended data collection
-│   ├── data_preprocessed.csv              # Cleaned dataset
+│   ├── data_preprocessed.csv              # Cleaned dataset (Milestone 1)
+│   ├── data_preprocessed_MS2.csv          # Cleaned dataset (Milestone 2)
 │   ├── data_urls_final.csv                # Raw dataset with URLs
 │   ├── dataset_API.csv                    # API-fetched data
 │   ├── idlist.csv                         # Game ID list
