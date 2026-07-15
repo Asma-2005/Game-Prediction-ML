@@ -58,7 +58,7 @@ Both milestones share an identical preprocessing pipeline. **The only difference
 ## 📁 Repository Structure
 
 ```
-Game-Prediction-ML/
+Steam-Success-Forecasting/
 │
 ├── Data/
 │   ├── Data_Preprocessing.ipynb            # Milestone 1 preprocessing notebook
@@ -512,8 +512,8 @@ Uses **scaled + SMOTE-balanced** features.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Asma-2005/Game-Prediction-ML.git
-cd Game-Prediction-ML
+git clone https://github.com/Asma-2005/Steam-Success-Forecasting.git
+cd Steam-Success-Forecasting
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn \
